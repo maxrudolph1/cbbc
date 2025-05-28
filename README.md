@@ -13,12 +13,15 @@ This script creates random pairings between names and ingredients using cryptogr
 
 | Name | Proposed Ingredient | Name Hash | Assigned Ingredient | Ingredient Hash |
 |------|---------------------|-----------|------------|----------------|
-| kason      | plantain                       | 0242c1c658 | pandan                         | 035f9b78b5 |
-| brett      | cabbage                        | 4cefa6b13a | cabbage                        | 0a7a27bedd |
-| shankara   | tofu                           | 4ddc3c135b | persimmon                      | 13cfa04091 |
-| maxine     | lavender                       | 5487d9e0d1 | coffee                         | 37290d74ac |
-| celeste    | pandan                         | 5b0e1ceb31 | cool ranch doritos             | aa7110a090 |
-| raines     | coffee                         | 82bc88d2b4 | tofu                           | cc52e9ceb3 |
-| max        | persimmon                      | 9baf3a4031 | plantain                       | de0cb49945 |
-| stephanie  | cool ranch doritos             | a1df6dffb5 | black fermented soy beans (dou chi) | f6b6df29da |
-| andrew     | black fermented soy beans (dou chi) | d979885447 | lavender                       | fef8cec0ff |
+| kason      | plantain                       | 0242c1c658 | brussel sprouts                | 107c375bca |
+| pierriricardo | jalapeno                       | 1921ab2fd4 | plantain                       | 1ee989455e |
+| siddhant   | semolina                       | 3477e5f0be | persimmon                      | 3054026fc6 |
+| brett      | cabbage                        | 4cefa6b13a | jalapeno                       | 31ab3328ca |
+| shankara   | tofu                           | 4ddc3c135b | pandan                         | 3c0ac08c28 |
+| maxine     | lavender                       | 5487d9e0d1 | black fermented soy beans (dou chi) | 7c49e94b89 |
+| celeste    | pandan                         | 5b0e1ceb31 | coffee                         | 9d89c25d93 |
+| raines     | coffee                         | 82bc88d2b4 | tofu                           | a64bc3ba81 |
+| max        | persimmon                      | 9baf3a4031 | lavender                       | ba4542a85b |
+| stephanie  | cool ranch doritos             | a1df6dffb5 | semolina                       | cd36a162e5 |
+| noah       | brussel sprouts                | cf3a3bbe33 | cabbage                        | ec574cf07e |
+| andrew     | black fermented soy beans (dou chi) | d979885447 | cool ranch doritos             | fb4b590236 |
